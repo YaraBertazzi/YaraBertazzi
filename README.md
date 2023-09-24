@@ -1,5 +1,5 @@
 ## Olá! Eu me chamo Yara 👋😁
-### Sou iniciante na programação, e estou cursando Analise e Desenvolvimento de Sistema 👩‍💻
+### Sou iniciante na programação, espero aprender e contribuir com a comunidade! No momento estou cursando Ciência da Computação 👩‍💻
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNjdgiyz6SNK4cOr9%2BJJ1vQ%3D%3D)
 
